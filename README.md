@@ -1,3 +1,5 @@
+https://www.thingiverse.com/thing:3875189
+https://youtu.be/RDJB3YbSjZ4
 A remix of the Rotary Tumbler by Colleone. (https://www.thingiverse.com/thing:3101842)
 These are the changes:
 1. A 3D printed base instead of using the wood plate.
